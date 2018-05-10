@@ -1,0 +1,7 @@
+*.suo
+*.user
+*.ncb
+.vs/
+NetworkedGameServer/bin/
+NetworkedGameServer/obj/
+NetworkedGameServer/ClassDiagram1.cd
